@@ -1,0 +1,13 @@
+简体中文：
+扫雷：规则和基本要求
+    游戏目标
+        找出空方块，同时避免触雷。
+    玩法
+        扫雷的规则非常简单：
+        1.挖开地雷，游戏即告结束。
+        2.挖开空方块，可以继续玩。
+        3.挖开数字，则表示在其周围的八个方块中共有多少个雷。
+          你可以使用该信息推断能够安全单击附近的哪些方块。
+（摘自Windows 7 扫雷帮助文档）
+English:
+Sorry!I couldn't write the English helping file because my English...you know.
